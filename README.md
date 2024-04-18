@@ -1,7 +1,5 @@
 # Full Cart Store Annual Analysis
 
-### Dashboard Link :
-
 ## Objective
 
 
